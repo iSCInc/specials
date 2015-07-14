@@ -62,4 +62,4 @@ $wgExtensionMessagesFiles['WikifarmAlias'] = $dir . '/Wikifarm.i18n.alias.php';
 
 // Register special pages
 // See also http://www.mediawiki.org/wiki/Manual:Special_pages
-$wgSpecialPages['HelloWorld'] = 'SpecialWikifarm';
+$wgSpecialPages['Wikifarm'] = 'SpecialWikifarm';
