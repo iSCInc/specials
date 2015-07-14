@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": ['Suriyaa Kudo']
+    },
+    "wikifarm-desc": "A Special Page that can be included on a wikipage like {{Special:Wikifarm}} as well as being accessed on [[Special:Wikifarm]].",
+    "wikifarm-title": "Wikifarm",
+    "wikifarm-intro": "A Special Page that can be included on a wikipage like {{Special:Wikifarm}} as well as being accessed on [[Special:Wikifarm]]."
+}
